@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97216142035",
+    "firebase_url": "https://ease-of-cooking.firebaseio.com",
+    "project_id": "ease-of-cooking",
+    "storage_bucket": "ease-of-cooking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97216142035:android:8d86b1447424170e5f5226",
+        "android_client_info": {
+          "package_name": "com.example.easeofcooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97216142035-25e2spsudikeu6h7jv7nsoehca9srjpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easeofcooking",
+            "certificate_hash": "75b78df948ed2b8f7b2e0ccc5091018019ea93b8"
+          }
+        },
+        {
+          "client_id": "97216142035-7o95vmtn6gtm8f8ho0n7okmo0pcfg86l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeA0ru42sZgN5MfvkgrkgqpFNL2yk0GrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97216142035-7o95vmtn6gtm8f8ho0n7okmo0pcfg86l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
